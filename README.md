@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://imgur.com/d2YLcd0.jpeg">
 
 <h1>
-    <a href="https://rayssaandradee.github.io/">
+    <a href="https://github.com/rayssaandradee">
     <span>Rayssa Andrade</span>
 </h1>
 
