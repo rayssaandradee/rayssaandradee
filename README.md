@@ -5,7 +5,7 @@
     <span>Rayssa Andrade</span>
 </h1>
 
-Atualmente sou estudante do 3º período de Ciência da Computação no Centro Universitário Farias Brito em Fortaleza-CE, tenho interesse na aréa de desenvolvimento e automação de software.
+Atualmente sou estudante do 4º período de Ciência da Computação no Centro Universitário Farias Brito em Fortaleza-CE, tenho interesse na aréa de desenvolvimento e automação de software.
 
 ### Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-lima-84a206356/)
