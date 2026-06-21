@@ -5,12 +5,11 @@
     <span>Rayssa Andrade</span>
 </h1>
 
-Atualmente sou estudante do 4º período de Ciência da Computação no Centro Universitário Farias Brito em Fortaleza-CE, tenho interesse na aréa de desenvolvimento e automação de software.
+Atualmente sou estudante do 5º período de Ciência da Computação no Centro Universitário Farias Brito em Fortaleza-CE, tenho interesse na aréa de desenvolvimento e automação de software.
 
 ### Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssa-lima-84a206356/)
 [![E-mail](https://img.shields.io/badge/-Email-004B57?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rayssaandradelimaa@gmail.com)
-[![Perfil DIO](https://img.shields.io/badge/-DiO-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](https://www.dio.me/users/rayssaandradelimaa)
 
 ### Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-004B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayssaandradee)
